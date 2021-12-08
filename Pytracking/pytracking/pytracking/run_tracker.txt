@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0, python run_tracker.py siamrpn siamrpn --dataset_name totb --debug 1
