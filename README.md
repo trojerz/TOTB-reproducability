@@ -1,7 +1,5 @@
 # Transparent Object Tracking Benchmark - reproducability challenge
 
-*Author: Žiga Trojer*
-*email: zt0006@student.uni-lj.si*
 
 This repository includes all the code that we need for reproducing the results.
 It includes the following:
